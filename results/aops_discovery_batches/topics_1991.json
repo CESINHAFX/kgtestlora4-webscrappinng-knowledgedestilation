@@ -1,0 +1,90 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h23984",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Easy AIME",
+    "source_date": "2005-01-18T13:30:36+00:00",
+    "is_stationary_candidate": true,
+    "year": 1991,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h70177",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Parallel segments in a rectangle",
+    "source_date": "2006-01-15T15:50:03+00:00",
+    "is_stationary_candidate": true,
+    "year": 1991,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h70178",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Maximize binomial coefficient",
+    "source_date": "2006-01-15T16:10:15+00:00",
+    "is_stationary_candidate": true,
+    "year": 1991,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h70180",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Logarithm and sine equation",
+    "source_date": "2006-01-15T16:35:11+00:00",
+    "is_stationary_candidate": true,
+    "year": 1991,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h75037",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Product of numerator and denominator",
+    "source_date": "2006-02-15T22:11:06+00:00",
+    "is_stationary_candidate": true,
+    "year": 1991,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h70181",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Sum of floor functions",
+    "source_date": "2006-01-15T17:01:05+00:00",
+    "is_stationary_candidate": true,
+    "year": 1991,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h70208",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Again and again",
+    "source_date": "2006-01-15T19:58:31+00:00",
+    "is_stationary_candidate": true,
+    "year": 1991,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h70213",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Quadratic equation",
+    "source_date": "2006-01-15T20:25:29+00:00",
+    "is_stationary_candidate": true,
+    "year": 1991,
+    "problem_index": 8
+  }
+]

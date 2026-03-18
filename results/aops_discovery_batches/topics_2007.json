@@ -1,0 +1,79 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h138716",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Perfect Squares",
+    "source_date": "2007-03-15T02:07:00+00:00",
+    "is_stationary_candidate": true,
+    "year": 2007,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h138719",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Moving Walkway",
+    "source_date": "2007-03-15T02:10:35+00:00",
+    "is_stationary_candidate": true,
+    "year": 2007,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h138721",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Complex Number Problem",
+    "source_date": "2007-03-15T02:12:20+00:00",
+    "is_stationary_candidate": true,
+    "year": 2007,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h138723",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Circular Orbits",
+    "source_date": "2007-03-15T02:14:29+00:00",
+    "is_stationary_candidate": true,
+    "year": 2007,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h138726",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Converting Temperatures",
+    "source_date": "2007-03-15T02:17:21+00:00",
+    "is_stationary_candidate": true,
+    "year": 2007,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h138728",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Frog on a Number Line",
+    "source_date": "2007-03-15T02:20:54+00:00",
+    "is_stationary_candidate": true,
+    "year": 2007,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h138730",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Summation, Ceiling, and Floor Functions",
+    "source_date": "2007-03-15T02:27:37+00:00",
+    "is_stationary_candidate": true,
+    "year": 2007,
+    "problem_index": 7
+  }
+]

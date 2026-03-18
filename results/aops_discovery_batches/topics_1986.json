@@ -1,0 +1,90 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66847",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Find X",
+    "source_date": "2005-12-22T01:00:02+00:00",
+    "is_stationary_candidate": true,
+    "year": 1986,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66848",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Product Evaluation",
+    "source_date": "2005-12-22T01:00:34+00:00",
+    "is_stationary_candidate": true,
+    "year": 1986,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66849",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Tangents and Cotangents",
+    "source_date": "2005-12-22T01:01:17+00:00",
+    "is_stationary_candidate": true,
+    "year": 1986,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66850",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "System of Equations",
+    "source_date": "2005-12-22T01:01:59+00:00",
+    "is_stationary_candidate": true,
+    "year": 1986,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66851",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Largest Divisor",
+    "source_date": "2005-12-22T01:02:32+00:00",
+    "is_stationary_candidate": true,
+    "year": 1986,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66852",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Book Page Errors",
+    "source_date": "2005-12-22T01:03:00+00:00",
+    "is_stationary_candidate": true,
+    "year": 1986,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66853",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Finding Terms of a Sequence",
+    "source_date": "2005-12-22T01:03:34+00:00",
+    "is_stationary_candidate": true,
+    "year": 1986,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66854",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Logarithms and Divisors",
+    "source_date": "2005-12-22T01:04:13+00:00",
+    "is_stationary_candidate": true,
+    "year": 1986,
+    "problem_index": 8
+  }
+]

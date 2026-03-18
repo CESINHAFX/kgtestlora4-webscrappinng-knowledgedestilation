@@ -1,0 +1,68 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h60482",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Tangent Circles and Area",
+    "source_date": "2005-11-10T01:40:43+00:00",
+    "is_stationary_candidate": true,
+    "year": 2005,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h60498",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Arithmetic Series and Common Differences",
+    "source_date": "2005-11-10T02:07:02+00:00",
+    "is_stationary_candidate": true,
+    "year": 2005,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h60505",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Proper Divisors",
+    "source_date": "2005-11-10T03:19:46+00:00",
+    "is_stationary_candidate": true,
+    "year": 2005,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h60507",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Forming a Marching Band Formation",
+    "source_date": "2005-11-10T03:41:43+00:00",
+    "is_stationary_candidate": true,
+    "year": 2005,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h60510",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Coin Arrangements",
+    "source_date": "2005-11-10T04:07:16+00:00",
+    "is_stationary_candidate": true,
+    "year": 2005,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h60512",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "A Product of Nonreal Roots",
+    "source_date": "2005-11-10T04:20:18+00:00",
+    "is_stationary_candidate": true,
+    "year": 2005,
+    "problem_index": 6
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580668",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Convoluted Shoelaces",
+    "source_date": "2014-03-14T16:20:22+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580654",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Balls and Urns",
+    "source_date": "2014-03-14T15:39:09+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580665",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Rational numbers, sum to 1000",
+    "source_date": "2014-03-14T16:06:48+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580648",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Bicycles and trains",
+    "source_date": "2014-03-14T15:35:36+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580664",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Communal Subsets",
+    "source_date": "2014-03-14T15:59:12+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580647",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Quadratic with integer roots",
+    "source_date": "2014-03-14T15:32:58+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580660",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Heated Argument",
+    "source_date": "2014-03-14T15:50:05+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580663",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Four-Digit Sequence",
+    "source_date": "2014-03-14T15:55:54+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 8
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580646",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Roots of a cubic",
+    "source_date": "2014-03-14T15:28:59+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 9
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580658",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Circle revolving around circle",
+    "source_date": "2014-03-14T15:47:50+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 10
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580662",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Wandering Token",
+    "source_date": "2014-03-14T15:55:43+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 11
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580652",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Disjoint ranges of two functions",
+    "source_date": "2014-03-14T15:37:50+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 12
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h580667",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Splitting up a Square",
+    "source_date": "2014-03-14T16:17:52+00:00",
+    "is_stationary_candidate": true,
+    "year": 2014,
+    "problem_index": 13
+  }
+]

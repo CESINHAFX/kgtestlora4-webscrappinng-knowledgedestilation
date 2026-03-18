@@ -1,0 +1,167 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80685",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Even integers",
+    "source_date": "2006-03-24T05:47:58+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80687",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Campaign tour",
+    "source_date": "2006-03-24T05:52:12+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80688",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Fishing festival",
+    "source_date": "2006-03-24T05:58:45+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80690",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "bc - ad = 93",
+    "source_date": "2006-03-24T06:00:05+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80691",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Shifted polynomial",
+    "source_date": "2006-03-24T06:01:58+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80789",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Sum of consecutive integers",
+    "source_date": "2006-03-25T01:42:23+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80791",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Brick inside a box",
+    "source_date": "2006-03-25T01:49:10+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80792",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Six element union",
+    "source_date": "2006-03-25T01:51:58+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 8
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80793",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Points on a circle",
+    "source_date": "2006-03-25T02:07:38+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 9
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80794",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Polyhedron with 32 faces",
+    "source_date": "2006-03-25T02:10:50+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 10
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80995",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Coin tossing game",
+    "source_date": "2006-03-26T16:17:18+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 11
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80996",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Midpoint sequence",
+    "source_date": "2006-03-26T16:20:58+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 12
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80998",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Jenny and Kenny",
+    "source_date": "2006-03-26T16:25:16+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 13
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h73484",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Inscribed rectangle",
+    "source_date": "2006-02-05T20:37:33+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 14
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h73499",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Altitude and inscribed circle",
+    "source_date": "2006-02-05T22:00:26+00:00",
+    "is_stationary_candidate": true,
+    "year": 1993,
+    "problem_index": 15
+  }
+]

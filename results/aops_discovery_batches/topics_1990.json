@@ -1,0 +1,90 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h76478",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Know your squares?",
+    "source_date": "2006-02-24T19:45:39+00:00",
+    "is_stationary_candidate": true,
+    "year": 1990,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h76488",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Originalish Problem",
+    "source_date": "2006-02-24T22:02:45+00:00",
+    "is_stationary_candidate": true,
+    "year": 1990,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h76489",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Angle Ratios",
+    "source_date": "2006-02-24T22:09:15+00:00",
+    "is_stationary_candidate": true,
+    "year": 1990,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h76497",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Quadratics Again",
+    "source_date": "2006-02-24T22:41:41+00:00",
+    "is_stationary_candidate": true,
+    "year": 1990,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h76501",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Find N",
+    "source_date": "2006-02-24T22:54:33+00:00",
+    "is_stationary_candidate": true,
+    "year": 1990,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h76502",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Count the Fish!",
+    "source_date": "2006-02-24T23:02:34+00:00",
+    "is_stationary_candidate": true,
+    "year": 1990,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h76509",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Angle Bisector in Cartesian",
+    "source_date": "2006-02-25T00:11:40+00:00",
+    "is_stationary_candidate": true,
+    "year": 1990,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h76520",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Shooting Practice",
+    "source_date": "2006-02-25T01:51:05+00:00",
+    "is_stationary_candidate": true,
+    "year": 1990,
+    "problem_index": 8
+  }
+]

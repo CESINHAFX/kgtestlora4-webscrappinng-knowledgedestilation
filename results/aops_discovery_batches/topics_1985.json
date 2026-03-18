@@ -1,0 +1,90 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h72789",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Fun Product",
+    "source_date": "2006-02-01T04:30:36+00:00",
+    "is_stationary_candidate": true,
+    "year": 1985,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h72790",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Rotating a Right Triangle",
+    "source_date": "2006-02-01T04:43:57+00:00",
+    "is_stationary_candidate": true,
+    "year": 1985,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h72791",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Some imaginary numbers",
+    "source_date": "2006-02-01T05:03:02+00:00",
+    "is_stationary_candidate": true,
+    "year": 1985,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h77869",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Small Square",
+    "source_date": "2006-03-05T19:36:04+00:00",
+    "is_stationary_candidate": true,
+    "year": 1985,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79191",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Partial sums of a recurrent sequence",
+    "source_date": "2006-03-14T05:13:47+00:00",
+    "is_stationary_candidate": true,
+    "year": 1985,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79194",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "A triangle with six parts",
+    "source_date": "2006-03-14T05:24:31+00:00",
+    "is_stationary_candidate": true,
+    "year": 1985,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79195",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Four integer variables",
+    "source_date": "2006-03-14T05:29:52+00:00",
+    "is_stationary_candidate": true,
+    "year": 1985,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h77928",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Integer Approximations",
+    "source_date": "2006-03-06T03:22:17+00:00",
+    "is_stationary_candidate": true,
+    "year": 1985,
+    "problem_index": 8
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87209",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Multiple Factorials",
+    "source_date": "2006-05-11T05:04:34+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87212",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "100 Circles",
+    "source_date": "2006-05-11T05:08:05+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87215",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "A sum of maximums",
+    "source_date": "2006-05-11T05:10:58+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87216",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Logs and Trig",
+    "source_date": "2006-05-11T05:12:38+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87217",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Neighbourhood of a box",
+    "source_date": "2006-05-11T05:15:57+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87256",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Triangles in a Cube",
+    "source_date": "2006-05-11T14:54:29+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87257",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Possible perimeters",
+    "source_date": "2006-05-11T14:57:11+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87258",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "An AP and a GP",
+    "source_date": "2006-05-11T14:58:55+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 8
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87260",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Balanced integers",
+    "source_date": "2006-05-11T15:00:36+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 9
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87261",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Isosceles triangle",
+    "source_date": "2006-05-11T15:03:56+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 10
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87312",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Sides of a triangle",
+    "source_date": "2006-05-12T05:28:55+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 11
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87313",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "A convex quadrilateral",
+    "source_date": "2006-05-12T05:32:54+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 12
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h87314",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Binary representations",
+    "source_date": "2006-05-12T05:34:44+00:00",
+    "is_stationary_candidate": true,
+    "year": 2003,
+    "problem_index": 13
+  }
+]

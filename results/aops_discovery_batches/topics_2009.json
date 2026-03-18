@@ -1,0 +1,79 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h265228",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Geometric Numbers",
+    "source_date": "2009-03-18T15:37:32+00:00",
+    "is_stationary_candidate": true,
+    "year": 2009,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h265230",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Complex Fraction",
+    "source_date": "2009-03-18T15:42:15+00:00",
+    "is_stationary_candidate": true,
+    "year": 2009,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h265231",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Weighted Coin",
+    "source_date": "2009-03-18T15:44:47+00:00",
+    "is_stationary_candidate": true,
+    "year": 2009,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h265227",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Parallelogram",
+    "source_date": "2009-03-18T15:32:10+00:00",
+    "is_stationary_candidate": true,
+    "year": 2009,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h265234",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Cevians in a triangle",
+    "source_date": "2009-03-18T15:46:43+00:00",
+    "is_stationary_candidate": true,
+    "year": 2009,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h265236",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Find N when x has a solution",
+    "source_date": "2009-03-18T15:48:25+00:00",
+    "is_stationary_candidate": true,
+    "year": 2009,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h265237",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Sequence",
+    "source_date": "2009-03-18T15:49:45+00:00",
+    "is_stationary_candidate": true,
+    "year": 2009,
+    "problem_index": 7
+  }
+]

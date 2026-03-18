@@ -1,0 +1,145 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469875",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Three-digit numbers divisible by 4",
+    "source_date": "2012-03-16T15:24:43+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469877",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "An arithmetic sequence with terms increased",
+    "source_date": "2012-03-16T15:27:32+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469879",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Ordering and serving meals randomly",
+    "source_date": "2012-03-16T15:30:19+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469883",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Running away from a place",
+    "source_date": "2012-03-16T15:34:33+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469884",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Binary integers whose difference is 1",
+    "source_date": "2012-03-16T15:37:03+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469886",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Imaginary part of a complex number",
+    "source_date": "2012-03-16T15:39:16+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469889",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Trading coins",
+    "source_date": "2012-03-16T15:55:09+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469921",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Volume of a Part of a Cube",
+    "source_date": "2012-03-16T18:15:03+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 8
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469913",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Logarithms in x,y,z",
+    "source_date": "2012-03-16T17:51:20+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 9
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469903",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Sets of perfect squares ending in 256",
+    "source_date": "2012-03-16T16:50:41+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 10
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469914",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Froggy",
+    "source_date": "2012-03-16T17:55:16+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 11
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469915",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Steiner's Theorem Returns",
+    "source_date": "2012-03-16T17:59:35+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 12
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h469916",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Cocentric Circles of radii 3,4,5",
+    "source_date": "2012-03-16T18:03:35+00:00",
+    "is_stationary_candidate": true,
+    "year": 2012,
+    "problem_index": 13
+  }
+]

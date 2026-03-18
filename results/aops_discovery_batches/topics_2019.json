@@ -1,0 +1,145 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802364",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Sum of digits",
+    "source_date": "2019-03-14T17:03:09+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802331",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "AIME I Problem 2",
+    "source_date": "2019-03-14T16:34:15+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802350",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "equidistant hexagon",
+    "source_date": "2019-03-14T16:47:08+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802367",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Soccer substitutions",
+    "source_date": "2019-03-14T17:04:58+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802339",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Particle Pathing",
+    "source_date": "2019-03-14T16:38:48+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802370",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Quadrilateral Diagonals",
+    "source_date": "2019-03-14T17:06:30+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802338",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "high quality system",
+    "source_date": "2019-03-14T16:38:43+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802340",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "trigonometric extrapolation",
+    "source_date": "2019-03-14T16:39:52+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 8
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802333",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Equation in tau",
+    "source_date": "2019-03-14T16:34:51+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 9
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802332",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "2019 Roots",
+    "source_date": "2019-03-14T16:34:44+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 10
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802353",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "so what's an excircle?",
+    "source_date": "2019-03-14T16:48:32+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 11
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802336",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "geometry in complex numbers",
+    "source_date": "2019-03-14T16:37:40+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 12
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h1802334",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Circumcircle Intersections",
+    "source_date": "2019-03-14T16:35:45+00:00",
+    "is_stationary_candidate": true,
+    "year": 2019,
+    "problem_index": 13
+  }
+]

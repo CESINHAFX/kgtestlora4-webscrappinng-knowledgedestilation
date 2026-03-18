@@ -1,0 +1,90 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h63775",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Arithmetic Progression",
+    "source_date": "2005-12-01T05:52:58+00:00",
+    "is_stationary_candidate": true,
+    "year": 1984,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h63776",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Special Multiple of 15",
+    "source_date": "2005-12-01T05:55:24+00:00",
+    "is_stationary_candidate": true,
+    "year": 1984,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h63777",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Fun Area Probem",
+    "source_date": "2005-12-01T05:56:32+00:00",
+    "is_stationary_candidate": true,
+    "year": 1984,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h63778",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Arithmetic Means",
+    "source_date": "2005-12-01T05:58:10+00:00",
+    "is_stationary_candidate": true,
+    "year": 1984,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h63779",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Easy Log",
+    "source_date": "2005-12-01T05:59:19+00:00",
+    "is_stationary_candidate": true,
+    "year": 1984,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h63780",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Splitting Circle Areas",
+    "source_date": "2005-12-01T06:00:37+00:00",
+    "is_stationary_candidate": true,
+    "year": 1984,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66509",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Another Function",
+    "source_date": "2005-12-19T03:21:06+00:00",
+    "is_stationary_candidate": true,
+    "year": 1984,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66510",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Complex Roots",
+    "source_date": "2005-12-19T03:22:42+00:00",
+    "is_stationary_candidate": true,
+    "year": 1984,
+    "problem_index": 8
+  }
+]

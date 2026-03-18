@@ -1,0 +1,167 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79614",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Ten-button lock",
+    "source_date": "2006-03-17T02:21:47+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79616",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Square of sum of digits",
+    "source_date": "2006-03-17T02:30:29+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79617",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Nested logs",
+    "source_date": "2006-03-17T02:31:50+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79618",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Sum of absolute values",
+    "source_date": "2006-03-17T02:33:50+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79619",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Randomly chosen divisor",
+    "source_date": "2006-03-17T02:36:33+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79620",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Arithmetic sequence square",
+    "source_date": "2006-03-17T02:42:54+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79861",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Altitude from A",
+    "source_date": "2006-03-18T18:14:47+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79862",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "f(14,52)",
+    "source_date": "2006-03-18T18:17:46+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 8
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79863",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Cube ending with 888",
+    "source_date": "2006-03-18T18:20:05+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 9
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h79864",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Convex polyhedron",
+    "source_date": "2006-03-18T18:24:24+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 10
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80055",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Mean line",
+    "source_date": "2006-03-19T17:51:55+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 11
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80057",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Cevians in a triangle",
+    "source_date": "2006-03-19T18:08:06+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 12
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80058",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "x^2 - x - 1",
+    "source_date": "2006-03-19T18:11:44+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 13
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80059",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Reflection of a graph",
+    "source_date": "2006-03-19T18:17:33+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 14
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h80060",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Letters in a box",
+    "source_date": "2006-03-19T18:26:20+00:00",
+    "is_stationary_candidate": true,
+    "year": 1988,
+    "problem_index": 15
+  }
+]

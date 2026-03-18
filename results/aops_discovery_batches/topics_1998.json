@@ -1,0 +1,90 @@
+[
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66436",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "LCM",
+    "source_date": "2005-12-18T18:29:10+00:00",
+    "is_stationary_candidate": true,
+    "year": 1998,
+    "problem_index": 1
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66437",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "System of Inequalities",
+    "source_date": "2005-12-18T18:30:41+00:00",
+    "is_stationary_candidate": true,
+    "year": 1998,
+    "problem_index": 2
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66438",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Dividing the Plane",
+    "source_date": "2005-12-18T18:32:03+00:00",
+    "is_stationary_candidate": true,
+    "year": 1998,
+    "problem_index": 3
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66439",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Drawing Tiles",
+    "source_date": "2005-12-18T18:33:45+00:00",
+    "is_stationary_candidate": true,
+    "year": 1998,
+    "problem_index": 4
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66440",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Trig Sum",
+    "source_date": "2005-12-18T18:35:05+00:00",
+    "is_stationary_candidate": true,
+    "year": 1998,
+    "problem_index": 5
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66442",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Parallelogram",
+    "source_date": "2005-12-18T18:38:40+00:00",
+    "is_stationary_candidate": true,
+    "year": 1998,
+    "problem_index": 6
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66443",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Partitions",
+    "source_date": "2005-12-18T18:40:31+00:00",
+    "is_stationary_candidate": true,
+    "year": 1998,
+    "problem_index": 7
+  },
+  {
+    "source_url": "https://artofproblemsolving.com/community/h66444",
+    "source_type": "aops_topic",
+    "competition": "AOPS_C3416",
+    "author": "AoPS",
+    "title": "Maximum Length of a Sequence",
+    "source_date": "2005-12-18T18:43:38+00:00",
+    "is_stationary_candidate": true,
+    "year": 1998,
+    "problem_index": 8
+  }
+]
